@@ -9,7 +9,7 @@
 
 ## Language and Tools
 <table><tr><td valign="top" width="33%">
-<div align="center" display="flex" flex-direction="row">  
+<div align="stretch">  
 
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a> 
  
