@@ -2,7 +2,7 @@
 ### <div align="center"> Hi👋, I'm Ayşe </div>  
 ## <div align="center"> A Software Developer </div>  
   
-- 🌱 I’m currently learning .NET Core
+- 🌱 I’m currently working .NET Core and Vue.js
 
 <br/>  
 
@@ -16,8 +16,8 @@
 <a href="https://github.com/ayseolmez" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ayseoolmez" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://x.com/ayseoolmez" target="_blank">
+<img src=[https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/twitter/follow/:user) alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ayse-olmez" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
